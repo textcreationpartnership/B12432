@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The progresse in pietie taught by Frances Dillingham in his parish of Wilden, and now published for the benefit of all good Christians.</title>
+            <author>Dillingham, Francis, d. 1625.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1606</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12432</idno>
+            <idno type="STC">STC 6888</idno>
+            <idno type="STC">ESTC S114597</idno>
+            <idno type="EEBO-CITATION">99849822</idno>
+            <idno type="PROQUEST">99849822</idno>
+            <idno type="VID">177925</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12432)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177925)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1269:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The progresse in pietie taught by Frances Dillingham in his parish of Wilden, and now published for the benefit of all good Christians.</title>
+                  <author>Dillingham, Francis, d. 1625.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printer to the Vniversitie of Cambridge,</publisher>
+                  <pubPlace>Printed by Iohn Legat :</pubPlace>
+                  <date>1606.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Piety --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177925:1"/>
+            <pb facs="tcp:177925:1"/>
+            <p>THE PROGRESSE in pietie: <hi>Taught by Frances Dil<g ref="char:EOLhyphen"/>lingham</hi> in his pariſh of Wilden, <hi>and now publiſhed for the benefit</hi> of all good Chriſtians.</p>
+            <q>
+               <bibl>Bernard in purific. Mariae, ſer. 2.</bibl>
+               <p>
+                  <hi>In via vitae non progredi eſt regredi, cum nihil adhuc in eodem ſtatu permoneat.</hi>
+               </p> Not to goe forward in the way of life, is to goe backward, ſeeing nothing continueth in the ſame eſtate.</q>
+            <figure>
+               <figDesc>seal of University of Cambridge</figDesc>
+               <p>ALMA MATER CANTA<g ref="char:EOLhyphen"/>BRIGIA</p>
+               <p>HINC LVCEM ET POCVLA SACRA</p>
+            </figure>
+            <p>Printed by IOHN LEGAT, Printer to the Vniuerſitie of CAMBRIDGE. 1606.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177925:2" rendition="simple:additions"/>
+            <pb facs="tcp:177925:2"/>
+            <opener>
+               <salute>¶ <hi>To the right Wor<g ref="char:EOLhyphen"/>ſhipfull, wiſe, and vertuous Ladies, the</hi> Ladie Anne Fleetwood, Elizabeth Luke, <hi>and</hi> Elizabeth Dive, <hi>Grace and peace.</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I co<g ref="char:cmbAbbrStroke">̄</g>ſider (right Worſhipfull and ver<g ref="char:EOLhyphen"/>tuous Ladies) the meanes that GOD hath giuen vs wher<g ref="char:EOLhyphen"/>by we may proceede in pietie and godli<g ref="char:EOLhyphen"/>nes of life, and when againe on the other<g ref="char:EOLhyphen"/>ſide, I conſider the little pietie that is a<g ref="char:EOLhyphen"/>mongst men, I cannot ſufficiently bewaile the times. That which <hi>Tullie</hi> the heathen man ſaid of his time, I may ſay of our age, <hi>In ea tempora incidit aetas noſtra vt cum maximè florere nos oporteret,
+<pb facs="tcp:177925:3"/>tune vivere puderet; We are fallen in<g ref="char:EOLhyphen"/>to thoſe times, that when we ſhould moſt flouriſh, then we are moſt aſha<g ref="char:EOLhyphen"/>med to liue.</hi> For what Chriſtian mans heart is not grieued, to heare of the oathes that abound in this land, and of the vſurie that is practiſed amongst men? but how<g ref="char:EOLhyphen"/>ſoeuer the wicked ſwarme and abound, yet the godly muſt haue a care to proceede in pietie: ſhall Atheiſts ſtriue for the dee<g ref="char:EOLhyphen"/>pest damnation and greateſt torments in hell, ſhall they ſtriue to ſinne moſt damna<g ref="char:EOLhyphen"/>bly, and ſhall not the children of God ſtriue to proceede from grace to grace? <hi>Salo<g ref="char:EOLhyphen"/>mon</hi> in the <hi>4.</hi> of the <hi>Prov.</hi> &amp; <hi>19. v.</hi> ſaith, <hi>That the way of the righteous ſhineth as the light that ſhineth more &amp; more vnto the perfect day,</hi> ſignifying that the godly increaſe daily in perfection, till they come to eternall happines. Wee are in this life <hi>viatores,</hi> trauellers: therefore we muſt daily trauell to come neere to our iournies end, which is euerlaſting life. The Schoole<g ref="char:EOLhyphen"/>men make three degrees of charitie, one of thoſe that are beginners in religion: the ſe<g ref="char:EOLhyphen"/>cond, of thoſe that proceede in the ſame:
+<pb facs="tcp:177925:3"/>the third, of thoſe that are perfect: now the truth is, we are not perfect in this life, but muſt ſtriue to perfection. <hi>Optatus</hi> ſpea<g ref="char:EOLhyphen"/>keth thus, <hi>Onely Chriſt is perfect,</hi>
+               <note place="margin">Lib. 2.</note> caete<g ref="char:EOLhyphen"/>ri omnes ſemi perfecti ſumus, <hi>all other of vs are but halfe perfect.</hi> For the furthe<g ref="char:EOLhyphen"/>rance of which progreſſe in pietie, I haue penned this briefe Treatiſe, deliuered in ſermons in my pariſh: in which Treatiſe I haue inſerted authorities, which then I v<g ref="char:EOLhyphen"/>ſed not for cauſes knowne to my ſelfe. And as I haue penned this briefe Treatiſe for the beneſit of the godly, ſo I dedicate the ſame to your Worſhips, whoſe chiefe care as to flie the corruptions of the world, and to proceede in godlines of life, as may appeare by the carefull vſing of the meanes here ſet downe, as I my ſelfe can teſtifie. The Lord of his infinite goodnes graunt that in ſo doing ye may continue vnto your liues ende, <hi>ſic itur ad aſtra,</hi> that is the way to heauen.</p>
+            <closer>
+               <signed>
+                  <hi>Your Worſh. to command,</hi> Frances Dillingham.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177925:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Revel. 22. v. 11.</hi>
+                  </bibl> He that is vnrighteous, let him be vn<g ref="char:EOLhyphen"/>righteous ſtill: and he that is filthie, let him be filthie ſtill: and he that is righte<g ref="char:EOLhyphen"/>ous, let him be righteous ſtill: and he that is holy, let him be holy ſtill.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>T the tenth ver. of this chapter, S. Iohn is commaunded by the Angel, not to ſeale vp the Pro<g ref="char:EOLhyphen"/>pheſy of this book: at the eleuenth v. he meeteth with an obiectio<g ref="char:cmbAbbrStroke">̄</g> which men might make. The obiection is this; It may be ſome will abuſe this Scrip<g ref="char:EOLhyphen"/>ture to their owne deſtruction: S. Iohn anſwereth after this manner: Be it ſo, he that is filthie, let him be filthie, yet the righteous and holy men wil reape
+<pb n="3" facs="tcp:177925:4"/>good by it, theſe are to be regarded, not the other. Out of which anſwer, we may gather how fitly the Papiſts may be anſwered. The Papiſt to keepe lay-men from reading the Scriptures, plead, that common people will per<g ref="char:EOLhyphen"/>uert them to their owne deſtruction: be it ſo, yet will the godly vſe them to their owne ſaluation. But I deſire to know of the Papiſt, whether that lear<g ref="char:EOLhyphen"/>ned men, as <hi>Arrius,</hi> and others, haue not abuſed the holy Scriptures to their owne hurt or no? it cannot be deni<g ref="char:EOLhyphen"/>ed, yet will they ſuffer learned men to read them. It is but bad logicke to di<g ref="char:EOLhyphen"/>ſpute from the abuſe of a thing to take away the lawfull vſe of the ſame. So the Sunne, and the Moone, and o<g ref="char:EOLhyphen"/>ther creatures may be taken away, be<g ref="char:EOLhyphen"/>cauſe they haue beene abuſed to Ido<g ref="char:EOLhyphen"/>latrie. To leaue the Papiſts, and to come to the handling of the words, two things are to be conſidered in them. The firſt is a commination or threatning, that howſoeuer the wic<g ref="char:EOLhyphen"/>ked encreaſe in naughtines God hath
+<pb n="4" facs="tcp:177925:5"/>prouided anſwerable puniſhment for them: for the Euangeliſt doth not ap<g ref="char:EOLhyphen"/>prooue their continuance in wicked<g ref="char:EOLhyphen"/>nes, but ſheweth the godly that ſuch curſed incorrigible creatures are not to be regarded, and that the godly are not to be hindered from their good courſe by theſe mens examples. The ſecond thing to be conſidered, is an exhortation to continue and to en<g ref="char:EOLhyphen"/>creaſe in righteouſnes, <hi>he that is righ<g ref="char:EOLhyphen"/>teous, let him be righteous ſtill.</hi> Concer<g ref="char:EOLhyphen"/>ning which exhortation, I will firſt ſhew what a righteous man is: ſecond<g ref="char:EOLhyphen"/>ly I will lay downe the impediments &amp; hinderances of continuing in righ<g ref="char:EOLhyphen"/>teouſnes: thirdly I will ſpeake of the meanes by which a righteous man may continue and encreaſe in righte<g ref="char:EOLhyphen"/>ouſnes. Touching the firſt, he is righ<g ref="char:EOLhyphen"/>teous that is without fault in the com<g ref="char:EOLhyphen"/>mon place where courts and matters of iudgement are pleaded and deci<g ref="char:EOLhyphen"/>ded. Prov. 17. v. 15. <hi>He that iuſtifieth the wicked, and he that condemneth the iuſt, euen they both are an abomination
+<pb n="5" facs="tcp:177925:5"/>vnto the Lord.</hi> 2. He is righteous that is without ſinne. 1. Tim. 1.9. 3. He is righteous that dealeth ſincerely in his office: a man may be a iuſt Magiſtrate, and yet a wicked man. 4. He is righ<g ref="char:EOLhyphen"/>teous that giueth euery man his own. 5. He is righteous that performeth his promiſe. Laſtly, he is righteous that walketh in all the commaunde<g ref="char:EOLhyphen"/>ments of God, though not perfectly. In the firſt and laſt ſignification the word may be taken here: for it may either ſignifie him that is righteous before the iudgement ſeate of God, by the imputed righteouſnes of Ieſus Chriſt, or els it may note him that is ſanctified. Thus hauing declared the ſignification of the word <hi>righteous,</hi> I am now to anſwer the Papiſt, who ga<g ref="char:EOLhyphen"/>thereth out of this place, That a man may increaſe in iuſtice and righteouſ<g ref="char:EOLhyphen"/>nes, and ſo all men are not equally iuſt. Touching which collection, I an<g ref="char:EOLhyphen"/>ſwer, that man doth and may increaſe in iuſtice, which is ſanctification, but in Chriſt his iuſtice, which is perfect,
+<pb n="6" facs="tcp:177925:6"/>men cannot encreaſe: to make this plaine by an example; take two deb<g ref="char:EOLhyphen"/>tours, the one oweth an hundred pounds, the other twentie, the credi<g ref="char:EOLhyphen"/>tour forgiueth them both; they are both equally free from debt, yet not both equally thankfull: ſo the Lord dealeth; he forgiueth ſome men ma<g ref="char:EOLhyphen"/>ny ſinnes, ſome fewer ſinnes, all then are equally iuſt: for iuſtice is the for<g ref="char:EOLhyphen"/>giuenes of ſinnes, Rom. 4.6. yet are not all equally ſanctified. Thus we ſee how all men are equally iuſt; in re<g ref="char:EOLhyphen"/>ſpect of Chriſt his perfect righteouſ<g ref="char:EOLhyphen"/>nes imputed to them, but in reſpect of ſanctification, all are nor equally ſanctified: and in this we may en<g ref="char:EOLhyphen"/>creaſe, in the other, which muſt make vs righteous at the barre of Gods iudgement, we cannot encreaſe. Ex<g ref="char:EOLhyphen"/>cellently ſpeaketh Bernard, <hi>ſer.</hi> 11. <hi>ad milit. Mors morte Chriſti fugatur, &amp; Christi iuſtitia nobis imputatur,</hi> death is driuen away by the death of Chriſt, and his righteouſnes is imputed vnto vs. This is that we muſt cleaue vnto.</p>
+            <pb n="7" facs="tcp:177925:6"/>
+            <p>Concerning ſanctification, how we may encreaſe in it, I am now to ſpeak. And firſt of the impediments and hin<g ref="char:EOLhyphen"/>derances, which are many. The firſt hindrance why men doe not increaſe in ſanctification, is an opinion that they are holy enough. Thus braggeth the church of Laodicea, Revel. 3.17. ſaying, <hi>I am rich and encreaſed with goods, I haue neede of nothing.</hi> So doth Ephraim, Hoſ. 12.9. ſaying, <hi>I am rich, I haue found me out riches in all my la<g ref="char:EOLhyphen"/>bours, they ſhall finde none iniquitie in me.</hi> Who wil ſuffer himſelfe to be taught, that thinketh he hath learning e<g ref="char:EOLhyphen"/>nough? Many might profit in know<g ref="char:EOLhyphen"/>ledge but that they perſwade the<g ref="char:cmbAbbrStroke">̄</g>ſelues falſly and erroneouſly that they haue knowledge enough; ſo who will la<g ref="char:EOLhyphen"/>bour to encreaſe in ſanctification, which perſwadeth himſelfe that he is ſanctified enough? Well ſaith <hi>Seneca,</hi>
+               <note place="margin">cap. 7. de. br<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. vitae.</note> 
+               <hi>Tota vita diſcendum est mori, &amp; vivere tota vita diſcendum eſt:</hi> we muſt all our life learne to die, &amp; all our life learne to liue. <hi>Hierome</hi> his ſaying is worthie
+<pb n="8" facs="tcp:177925:7"/>to be heard, <hi>Haec hominibus ſola perfe<g ref="char:EOLhyphen"/>ctio ſi imperfectos ſe eſſe noverit:</hi>
+               <note place="margin">ad Cteſiph.</note> this is the onely perfection of men, if they know them-ſelues to be imperfect. Wherfore abandon this vile co<g ref="char:cmbAbbrStroke">̄</g>ceit &amp; opinion, that thou art holy enough.</p>
+            <p>The ſecond hindrance of progreſſe in ſanctification, is an opinion that a little will ſuffice, and this, as likewiſe the firſt, are maine hinderances of ſan<g ref="char:EOLhyphen"/>ctification. For who will take paines to goe forward, when a little will ſuf<g ref="char:EOLhyphen"/>fice? Many perſwade themſelues that God is contented with a little, as if he were a child that would be ſtilled with an apple, or a nut, but theſe men ſhall know, that God is a conſuming fire, and let them know, that they are to ſtriue with S. Paul to perfection. 3. Phil. v. 12.</p>
+            <p>The third impediment, is the ex<g ref="char:EOLhyphen"/>ample of other men. Some think that, <hi>quod exemplo fit id iure fit,</hi> that which is done by example is warrantable by law: but they muſt know, that wee muſt liue by Gods lawe, and not by
+<pb n="9" facs="tcp:177925:7"/>example: and indeed to compare our liues with other mens liues, and to liue by examples, is moſt daungerous, ex<g ref="char:EOLhyphen"/>cept they had this priuiledge, that they could not erre. Well ſaith <hi>Bona<g ref="char:EOLhyphen"/>venture, Nullus eſt qui falli non poſſit &amp; fallere neſcit niſi deus &amp; S. ſanctus:</hi> there is none but may be deceiued, and alſo deceiue, but God, and the holy Ghoſt.</p>
+            <p>The fourth impediment of progres in pietie, are ſcoffes and tauntes of the wicked men. Ieremy in the 20. chap. would not ſpeake any more in the name of the Lord becauſe the word of God was daily had in deriſion: but let men knowe that the heathen man could ſay, <hi>qui vult eſſe bonus oportet eum rideri,</hi> he that wil be a good man muſt be mocked and laughed at.<note place="margin">Phoci<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> A wicked mans tongue is but a fooles dagger, which is ſoone drawen, good Chriſti<g ref="char:EOLhyphen"/>an reme<g ref="char:cmbAbbrStroke">̄</g>ber this, if wicked men teach their tongues to ſpeake euill, why ſhouldeſt not thou teach thine cares to heare euill? as theſe miſcreants of
+<pb n="10" facs="tcp:177925:8"/>the world laugh at Gods children, ſo the lord will laugh them one day to ſcorne, yea they ſhall change their mindes and ſigh for griefe of mind,<note place="margin">Wiſd. 5. ch.</note> and ſay within themſelues, this is he whom we ſometimes had in deriſion, and in a parable of reproch, we fooles thought his life madnes, and his ende without honour, how is he counted a<g ref="char:EOLhyphen"/>mong the children of God, and his portion among the ſaints of God?</p>
+            <p>The fift impediment, is reſpect and looking backe to the world: euen as a man cannot looke vp to hea<g ref="char:EOLhyphen"/>uen and downe to earth at one time with his bodily eyes, no more can he with the eyes of his ſoule.<note place="margin">Plu.</note> Sextius a Romane hauing reſigned his dignities betooke himſelfe to the ſtudy of phy<g ref="char:EOLhyphen"/>loſophy, but when his mind could hardly beare the difficulties, he had well nigh caſt himſelfe out of a ſhip into the ſea: ſo is it with many men, which hauing betaken them ſelues to religion, looke backe againe to the world: but let vs here conſider the ex<g ref="char:EOLhyphen"/>amples
+<pb n="11" facs="tcp:177925:8"/>of heathen men, <hi>Fabritius divi<g ref="char:EOLhyphen"/>tias reiecit. Tubero ſe paupertate dignum iudicauit.</hi> Fabritius caſt away riches, Tubero iudged himſelf worthy of po<g ref="char:EOLhyphen"/>uerty: and canſt not thou that wilt be a chriſtian, renounce the world? remem<g ref="char:EOLhyphen"/>ber this thing, that <hi>mortale eſt omne mortalium,</hi> all that mortall men haue is mortall.</p>
+            <p>The ſixt hinderance is ſloth<g ref="char:EOLhyphen"/>fulnes, Proverb. 21.29. v. The deſire of the ſlothfull ſlaieth the foole: for his handes refuſe to worke: many are ſo nice that they can take no paines in the ſeruice of God: they cannot tra<g ref="char:EOLhyphen"/>uaile to here ſermons, they cannot riſe to ſerue God.</p>
+            <q>
+               <l>
+                  <note place="margin">Hora<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>Impiger extremos currit mercator ad Indos,</l>
+               <l>Per mare pauperiem fugiens per ſaxa, per ignes.</l>
+            </q>
+            <p>The painefull Merchant goeth to the Indies that he might eſchewe pouertie, and wilt not thou take paines that thou mighteſt eſchewe the pouerty of thy ſoule? Theeues riſe at
+<pb n="12" facs="tcp:177925:9"/>midnight to murther men, and wilt not thou riſe to ſaue thy ſoule? <hi>Omnes artes abſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> doctore non diſcimus, ſola pietas tam vilis eſt,</hi>
+               <note place="margin">Hierom. in 3. Eccl.</note> 
+               <hi>vt non indigeat praeceptore?</hi> We learne no art without a teacher, is only piety ſo vile that it needeth no maſter? let vs not thinke, Chriſtian bre<g ref="char:EOLhyphen"/>thren, that men can goe to heauen without paines.</p>
+            <p>The ſeuenth impediment is ſatiety, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, there is a ſatiety of all things, and ſurely even in religion with many: but let vs knowe, that as <hi>divitiarum appetitus eſt infinitus,</hi> the de<g ref="char:EOLhyphen"/>ſire of riches to a naturall man in infi<g ref="char:EOLhyphen"/>nite, ſo to a ſpirituall man the deſire of the riches of the ſoule is infinite: for ſpirituall men haue taſted the ſweet<g ref="char:EOLhyphen"/>nes of the ſeruice of God,<note place="margin">1. Pet. 2.</note> and therfore followe it more and more. Euen as a man that hath once taſted the ſweet<g ref="char:EOLhyphen"/>nes of meat, deſireth more of the ſame; ſo likewiſe when a man hath taſted the ſweet food of his ſoule, he deſireth the ſame more and more: <hi>ſuavitate ſcientiae nihil eſt homini iucundius,</hi> there is no<g ref="char:EOLhyphen"/>thing
+<pb n="13" facs="tcp:177925:9"/>more pleaſant to man then the ſweetnes of knowledge, ſo there is no thing more pleaſant to a chriſtian the<g ref="char:cmbAbbrStroke">̄</g> the ſweetnes of piety.</p>
+            <p>The eight hinderance, is iniury and wrong that is offered vnto Chriſtians: an example we haue hereof in the ec<g ref="char:EOLhyphen"/>cleſiaſticall hiſtorie of Porphery,<note place="margin">7. booke, 2 chap.</note> who as it is recorded in the tripartite hiſto<g ref="char:EOLhyphen"/>ry, <hi>à quibuſdam Chriſtianis caeſus iram non ferens chriſtianiſmu<g ref="char:cmbAbbrStroke">̄</g> deſeruit per furo<g ref="char:EOLhyphen"/>rem,</hi> beeing beaten of Chriſtians, not bearing the iniury, forſooke religio<g ref="char:cmbAbbrStroke">̄</g> in a fury: wherefore let men take heed how they offer iniury to any: for the nature of man is impatient of iniury, and men looke for iuſtice at Chriſtians hands, or where ſhould they looke for it? <hi>apud Chriſtianos valebit iuſtitia aut ab eis repulſa vi &amp; gratia locum vbi conſi<g ref="char:EOLhyphen"/>ſtat reperire non poteſt,</hi> eyther iuſtice ſhould rule amongſt Chriſtians, or els being driven from them by force and fauour it cannot tell where to haue a place to reſt. Many are ſo prophane that they care not to abuſe Chriſtians,
+<pb n="14" facs="tcp:177925:10"/>euen becauſe they are Chriſtians, and they are not afraid to ſay, with that apoſtata Iulian it is your parts, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to ſuffer affliction, but let the godly remember that bleſſed are they if they ſuffer for righteouſnes ſake, yea let them conſider that the heathen man could ſay <hi>quo vir melior, clarior, fortior, quo plura virtutis ornamenta inſunt eo maiores illires laſſae ſu<g ref="char:cmbAbbrStroke">̄</g>t,</hi> the more ex<g ref="char:EOLhyphen"/>cellent a man is, the greater afflictio<g ref="char:cmbAbbrStroke">̄</g>s he hath. To end this point, he that is not patient is afflictions will be proud in proſperitie.</p>
+            <p>The ninth hinderance is Recidivati<g ref="char:EOLhyphen"/>on, that is, a falling into ſome ſin: for the godly are not ſo priuiledged but that they may: ſin hauing through infir<g ref="char:EOLhyphen"/>mity committed ſome ſin, the graces of God are wonderfully weakned in them, ſo that they are long before they can recouer them; it ſtandeth them in hand therfore to be watchfull ouer their hartes. Salomon in the. 4. of the Prouerbs giueth this counſaile, keeepe thine hart more then any thing that is
+<pb n="15" facs="tcp:177925:10"/>kept. And as men muſt watch ouer their hartes, ſo muſt they alſo watch o<g ref="char:EOLhyphen"/>uer their ſenſes: for our ſenſes are like vnto wanton maides, if they wander abroad they will be deflowred as Di<g ref="char:EOLhyphen"/>na was: therefore Iob ſaith 31. chap. that he had made a couenant with his eyes why then ſhould he looke on a maide? wherefore as Bernard ſaith <hi>Ie<g ref="char:EOLhyphen"/>iunet auris a fabulis &amp; rumoribus, oculus a curioſis aſpectibus,</hi> let thine eare faſt from and tales, and thine eyes from curious ſightes.</p>
+            <p>The tenth impediment is neglect of the meanes which God hath ap<g ref="char:EOLhyphen"/>pointed to further our piety, it is a principle in phyloſophy that <hi>omnia nutriuntur ex eiſdem ex quibus conſta<g ref="char:cmbAbbrStroke">̄</g>t.</hi> all things are nouriſhed of the ſame wherof they are made: wherefore if faith be begotte<g ref="char:cmbAbbrStroke">̄</g> by the word of God preached it muſt needes be nouriſhed by the ſame: to neglect then the prea<g ref="char:EOLhyphen"/>ching of the word, reading of the ſame and prayer, is an exceeding impedi<g ref="char:EOLhyphen"/>ment of pietie: the apoſtle in the 1.
+<pb n="16" facs="tcp:177925:11"/>of the Theſſ. 5. chap. ſaith, quench not the ſpirit, deſpiſe not the prophecie: wherfore if men will retaine the ſpirit of God, they muſt make account of preaching. Salomon alſo ſaith, Pro<g ref="char:EOLhyphen"/>verbs 29. where there is no viſion the people decay: but he that keepeth the lawe is bleſſed. I beſeech therefore all Chriſtians that they would freque<g ref="char:cmbAbbrStroke">̄</g>t ſermons; and as they muſt frequent ſermons, ſo likewiſe muſt they not neglect reading and prayer:<note place="margin">Hiero<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. ad <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tam.</note> 
+               <hi>orationi le<g ref="char:EOLhyphen"/>ctio, lectioni ſuccedat oratio,</hi> let reading ſuccede praier, and prayer reading. Excellently writeth <hi>Cyprian, ſit tibi vel oratio aſſidua vel lectio, nunc cum Deo loquere nunc Deus tecum:</hi> eyther read or preach continually, ſome<g ref="char:EOLhyphen"/>times talke thou with God, ſomtime let God talke with thee.</p>
+            <p>The eleuenth impediment is con<g ref="char:EOLhyphen"/>tention; if the heathen man ſaid, that <hi>natura &amp; ſtudia ad pacem trahunt,</hi> his nature and ſtudies did call him to peace, much more muſt a Chriſtian ſay that his ſtudy to keepe pietie calleth him to peace: the Apoſtle, 1. Cor. 7.
+<pb n="17" facs="tcp:177925:11"/>ſaith, that god hath called vs in peace; wherefore let vs auoid contentions: it is not for nothing that the Apoſtle, 1. Tim. 2.8. willeth all men to pray, lif<g ref="char:EOLhyphen"/>ting vp pure hands without wrath &amp; contention: for how can a man pray aright in malice and contention; nay doth not his contention call him fro<g ref="char:cmbAbbrStroke">̄</g> the ſeruice of God, and praier. When the co<g ref="char:cmbAbbrStroke">̄</g>tentious man ſhould be ſeruing God and giuing almes to the poore, then muſt he giue fees to lawyers and be riding vp and downe to make friends to ende his ſuites.</p>
+            <p>The laſt impediment which I will recite, is violent changing and con<g ref="char:EOLhyphen"/>uerſion. Some men will be conuerts, but their conuerſion is ſo high at the firſt that it cannot be encreaſed: let theſe men conſider that the workes of God are by degrees, he goeth not from one extremitie to an other with<g ref="char:EOLhyphen"/>out meanes. In nature he maketh not the ſommer without a ſpring, nor the winter without an Autumne, ſo order<g ref="char:EOLhyphen"/>ly doth the Lord proceede: wherfore
+<pb n="18" facs="tcp:177925:12"/>let men proceede by degrees in pietie. I doe not meane that men ſhould not make haſt in this holy worke: for <hi>neſ<g ref="char:EOLhyphen"/>cit tarda molimina ſpiritus ſanctus,</hi> the holy Ghoſt brooketh not ſlow backs: but they muſt haſten orderly and by meanes. Thus I haue ſet downe the impediments and hindrances of pro<g ref="char:EOLhyphen"/>ceeding in pietie, and haue but haſtily handled them; Chriſtians may in the<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſelues obſerue moe: but let vs all en<g ref="char:EOLhyphen"/>deauour and labour to eſchew and a<g ref="char:EOLhyphen"/>uoid theſe and whatſoeuer els we find in our ſelues. <hi>Res ingenioſa eſt eſſe profi<g ref="char:EOLhyphen"/>cientem in pietate,</hi> it is a cunning thing to profite in pietie. Now then I will ſpeake of the meanes by which we may profit: for as <hi>Seneca</hi> ſaith, 95. <hi>epiſt. Qui praecipiunt vt quod oportet facias non quemadmodum, ad virtutem non produ<g ref="char:EOLhyphen"/>cunt: non enim in facto laus eſt ſed in eo quemadmodum fiat:</hi> they which com<g ref="char:EOLhyphen"/>mand a thing to be done, and not the manner how it is to be done, bring not men to vertue: for praiſe conſiſt<g ref="char:EOLhyphen"/>eth not in doing, but in the manner
+<pb n="19" facs="tcp:177925:12"/>of doing it. Therefore to ſpeake brief<g ref="char:EOLhyphen"/>ly of the meanes by which men may proceede in pietie and ſanctification, I thinke it conuentent.</p>
+            <p>The firſt meanes is meditation: <hi>Le<g ref="char:EOLhyphen"/>ctio ſine meditatione arida, meditatio ſine lectione erronea, oratio ſine meditatione eſt tepida:</hi> Reading without meditati<g ref="char:EOLhyphen"/>on is barren, meditation without rea<g ref="char:EOLhyphen"/>ding is erroneous, praier without me<g ref="char:EOLhyphen"/>ditation is luke-warme. Meditation is like vnto digeſtion, as the meate re<g ref="char:EOLhyphen"/>ceiued profiteth not without digeſti<g ref="char:EOLhyphen"/>on, no more doth the word of God except we meditate. The beaſts that did not ruminate were vncleane, the man that doth not meditate is vnho<g ref="char:EOLhyphen"/>ly. Meditate then, good Chriſtian, vp<g ref="char:EOLhyphen"/>on theſe twelue things. Firſt, that plea<g ref="char:EOLhyphen"/>ſure is momentanie, and ſhort: ſeco<g ref="char:cmbAbbrStroke">̄</g>d<g ref="char:EOLhyphen"/>ly, that the reward is eternall, and the puniſhment is eternall: thirdly, medi<g ref="char:EOLhyphen"/>tate that the companion of pleaſure, is thought and ſorrow: fourthly, that in pleaſure there is loſſe of a greater good: fiftly, thinke that the life of man
+<pb n="20" facs="tcp:177925:13"/>is but a ſleepe and ſhaddow: ſixtly, thinke vpon ſudden death: ſeuenthly, ſuſpect repentance and impenitencie: eightly, conſider the dignitie and ex<g ref="char:EOLhyphen"/>cellencie of man: ninthly, peace of conſcience: tenthly, Gods benefits: e<g ref="char:EOLhyphen"/>leuenthly, the paſſio<g ref="char:cmbAbbrStroke">̄</g> of Chriſt: twelft<g ref="char:EOLhyphen"/>ly, the teſtimonie of Martyrs, and the examples of Saints: what heart is ſo hard as the meditation of theſe things will not mollifie?</p>
+            <p>The ſecond meanes by which we may proceede in pietie, is daily ſearch of our waies. To this we are exhorted in the 3. of the Lament. <hi>Let vs ſearch our waies, and turne vnto the Lord.</hi> This ſearch conſiſteth in three things: firſt, whether we doe things otherwiſe the<g ref="char:cmbAbbrStroke">̄</g> we ſhould doe or no: ſecondly, whe<g ref="char:EOLhyphen"/>ther we doe that we ſhould not doe or no: thirdly, whether we leaue things vndon or no which we ſhould haue done. <hi>Pythagoras</hi> commaunded his auditours going home to repeate this verſe,</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.
+<pb n="21" facs="tcp:177925:13"/>Wherein haue I tranſgreſſed, what haue I done, what haue I left vndone? Shall heathen goe thus farre, and ſhall not Chriſtians thus examine their liues? I wil in a word name the impe<g ref="char:EOLhyphen"/>diments of this ſearch, that they may be auoided: 1. griefe, 2. ſecuritie, 3. worldlines, 4. fearefulnes, for many men are like vnto bankerupts, that dare not looke into their eſtate. 5. ig<g ref="char:EOLhyphen"/>norance. 6. pleaſure.</p>
+            <p>The third meanes to proceede in pietie, is praier: pietie begetteth prai<g ref="char:EOLhyphen"/>er, and prayer preſerueth piety; as faith cauſeth hope, and hope nouriſheth faith; as frendſhip cauſeth benefites, and benefites nouriſh freindſhip; and as the heat of the heart begetteth the fatte about it, and the fat preſerueth the heate of the heart; ſo doth godli<g ref="char:EOLhyphen"/>nes beget praier, and praier furthereth godlines.</p>
+            <p>Nowe wee haue many arguments to mooue vs to prayer; Firſt, we haue a Mediatour in heauen, Chriſt Ieſus; <hi>Chriſtus,</hi> ſaith <hi>Ambroſe. lib.</hi> 5. <hi>Iacob. cap.</hi>
+               <pb n="22" facs="tcp:177925:14"/>8. <hi>eſt os noſtrum per quod patri loquimur, oculus noſter per quem patrem videmus, dextera noſtra per quampatri offerimus:</hi> Chriſt is our mouth by which we ſpeake to the father, he is our eye by which we ſee the father, he is our right hand by which we offer vnto the father. Secondly, the Lord commaun<g ref="char:EOLhyphen"/>deth this dutie. Thirdly, he promiſeth bountifully to them that pray. Fourth<g ref="char:EOLhyphen"/>ly, Chriſtians haue the ſpirit of God, which teacheth them to pray. Fiftly, it is our calling to pray: for all Chriſtians are preiſtes by calling. Sixtly our ne<g ref="char:EOLhyphen"/>ceſſity ſhould mooue vs to pray. Sea<g ref="char:EOLhyphen"/>uenthly, the force of prayer which is recorded in ſcripture to be wonder<g ref="char:EOLhyphen"/>full; <hi>Plus poteſt vnus iuſtus orando quàm mille peccatores pugnando:</hi> one righteous man can do more by prayer, then ma<g ref="char:EOLhyphen"/>ny ſinners by fighting.</p>
+            <p>The fourth meanes to proceed in Chriſtian pietie is exerciſe of Chri<g ref="char:EOLhyphen"/>ſtian duties: he that vſed his fiue talentes, gained fiue other: ſo he that vſeth his knowledge, encreaſeth his
+<pb n="23" facs="tcp:177925:14"/>knewledge: <hi>to him that hath,</hi> ſaith our ſauiour Chriſt, <hi>ſhall be giuen, and to him that hath not, ſhall be taken away even that which he hath.</hi>
+               <note place="margin">Mark. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Many keepe in their giftes, as fire is kept in the flint, and doe no good with them: others let them ruſt with fee blenes, and ſo in the end by Gods iuſt iudgement they are depriued of them.</p>
+            <p>The fift meanes to proceed in pie<g ref="char:EOLhyphen"/>tie, is company with the godly; <hi>am not I,</hi> ſaith the prophet Dauid, <hi>a compa<g ref="char:EOLhyphen"/>nion of all them that keepe thy commande<g ref="char:EOLhyphen"/>ments? Quim ſolem venit colorabitur,</hi>
+               <note place="margin">Pſal. 119.</note> 
+               <hi>qui vnguentaria taberna reſederunt loci odo<g ref="char:EOLhyphen"/>rem ſecum auferunt, &amp; qui apud pios fue<g ref="char:EOLhyphen"/>runt traxerint aliquid neceſſe eſt, ea eſt vis pietatis vt non ſtudentes ſolùm ſed &amp; con<g ref="char:EOLhyphen"/>uerſantes iu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et:</hi> He that walketh in the ſun ſhalbe coloured with it, and they that ſit in ſweet ſhoppes, ſhall carrie away the ſmell of the place: ſo they which bee amongſt Chriſtians, muſt needes carrie ſome pietie away: ſuch is the force of piety, that it doth not only profit the ſtudents but thoſe that con<g ref="char:EOLhyphen"/>uerſe with them. I maruell not then
+<pb n="24" facs="tcp:177925:15"/>then though me<g ref="char:cmbAbbrStroke">̄</g> proceed not in piety,<note place="margin">Many Prote<g ref="char:EOLhyphen"/>ſtants are like Papiſts, who haue leane praiers, and fat faſts.</note> ſeeing they are companions of pro<g ref="char:EOLhyphen"/>phane men. <hi>Noſcitur ex ſocio qui non noſcitur ex ſeſe:</hi> he is known by his co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>panion, that is not known by himſelf.</p>
+            <p>The ſixt meanes by which a man may proceede in piety, is faſting: con<g ref="char:EOLhyphen"/>cerning which duty, theſe things are to be obſerued. Firſt, that we faſt from ſinne, Eſay. 5.8. <hi>Ieiunium magnum &amp; ge<g ref="char:EOLhyphen"/>nerale,</hi> ſaith Auſten, <hi>tra.</hi> 17. <hi>in Ioh. eſt ab<g ref="char:EOLhyphen"/>ſtinere ab iniquitatibus &amp; illicitis volup<g ref="char:EOLhyphen"/>tatibus ſaeculi:</hi> the great and generall faſt,<note place="margin">
+                  <hi>Ipſis Chriſtia<g ref="char:EOLhyphen"/>nis qui omnia percipiunt non nos propter ab<g ref="char:EOLhyphen"/>ſtiue<g ref="char:cmbAbbrStroke">̄</g>tiam prae<g ref="char:EOLhyphen"/>ſeramus.</hi> Let not vs preferre our ſelues before Chriſtians, which eate all things for our abſtinence. <hi>Proſper.</hi>
+               </note> is to abſtaine from ſinne and the vnlawfull pleaſures of the world. Se<g ref="char:EOLhyphen"/>condly, we muſt not truſt in faſting: this was the proud Phariſie his fault, Luk. 18. and it is the Papiſts likewiſe. Thirdly, it is better to eate daily a lit<g ref="char:EOLhyphen"/>tle, then to eate ſeldome, and much. <hi>Hiero. ad Furiam. Parcus cibus &amp; venter eſurie<g ref="char:cmbAbbrStroke">̄</g>s triduanis praefertur ieiuniis, &amp; mul<g ref="char:EOLhyphen"/>to melius eſt quotidie parum ſumere quàm rarò ſatis ſumere: pluvia illa optima eſt quae ſenſim deſcendit in terram, ſubitus &amp; ni<g ref="char:EOLhyphen"/>mius imber in praeceps arva ſubuertit;</hi> A
+<pb n="25" facs="tcp:177925:15"/>little meate and a hungry ſtomacke, is preferred before a faſt of three dayes, much better is it dayly to eate little, then ſeldome a great deale; the ſmall raine doeth moſt good, great raine hurteth the fieldes. Fourthly, and laſt<g ref="char:EOLhyphen"/>ly, Chriſtians muſt ſometimes abſteine from all food,<note place="margin">Si à quadru<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dibus abſti<g ref="char:EOLhyphen"/>nentes à piſci<g ref="char:EOLhyphen"/>bus perſruan<g ref="char:EOLhyphen"/>tur n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n mihi videatur reſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>care delectiati<g ref="char:EOLhyphen"/>ones corpo<g ref="char:EOLhyphen"/>ris ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d mala re. <hi>Proſp. lib. 2. de vidu. cap. 23.</hi>
+               </note> as good Queene Eſter did, and the Niniuites: if men abſtaine from fleſh and eat fiſh, they cut not off delights of the body but cha<g ref="char:cmbAbbrStroke">̄</g>ge them.</p>
+            <p>The ſeuenth meanes to proceede in piety, is a Chriſtia<g ref="char:cmbAbbrStroke">̄</g> exerciſe of vowing: concerning vowes; Firſt, a Chriſtian may vowe to be thankfull vnto God: as for example, if a man get the victo<g ref="char:EOLhyphen"/>ry, he may vowe to praiſe God, and to beſtow ſomwhat on the poore. Se<g ref="char:EOLhyphen"/>condly, a man may vowe to put away by prayer the wrath of God: as for ex<g ref="char:EOLhyphen"/>ample, if a Chriſtian hath offended by eating too much, knowing that the wrath of God hangeth ouer his head, for this he may vowe for a time to ab<g ref="char:EOLhyphen"/>ſtaine from all dainties. Thirdly, a chri<g ref="char:EOLhyphen"/>ſtian may vowe to keepe himſelfe
+<pb n="26" facs="tcp:177925:16"/>more war was for exa<g ref="char:cmbAbbrStroke">̄</g>ple if be he ouer<g ref="char:EOLhyphen"/>taken in offending with his tongue, he may lawfully vow ſilence in company from idie wordes. Laſtly, a Chriſtian may vowe to ſtirre himſelfe vp to re<g ref="char:EOLhyphen"/>ligion, as for example, if he feele him<g ref="char:EOLhyphen"/>ſelfe backward in giuing of almes he may vowe to giue almes to the poore. If a man feele himſelfe backward in the ſeruice of God, he may vowe to ſerue God with greater alacritie. And nowe, Chriſtian brethren, to conclude this point, marke the policie of the deuilltin poperie, he abuſed praier, in ſo much that men prated for the dead; now he driueth men to Atheiſme, that they will not pray for the liuing: in poperie, he abuſed faſting; nowe he driueth men to neglect this dutie wholherin poperie, he abuſed vowes, nowe he driueth men to be carleſſe in vowing: but the godly muſt re<g ref="char:EOLhyphen"/>member to practiſe prayer, faſting, &amp; vowing.</p>
+            <p>The eight and laſt meanes to pro<g ref="char:EOLhyphen"/>ceede in pietie, is the frequent vſe of
+<pb n="27" facs="tcp:177925:16"/>the meanes that God hath appoin<g ref="char:EOLhyphen"/>ted; as the word preached, and the uſe of the Sacraments: howe ſhould he liue that neyther eateth or drinketh? howe ſhould he liue ſpiritually that neuer heareth ſermons? and as he that eateth little and ſeldome, hath vſually but a ſpare and leane body; ſo they that heare ſermons little and ſeldome, haue lean ſoules. Not to vſe the means that God hath appointed, is to tempt God. Is it not ſtrange that men ſhould thinke to flie without wings; is it not ſtrange to thinke that men can flie vp to heauen without the wings of faith, which is begotten by the word of God preached, and nouriſhed by the ſame? By hearing ſermons a Chriſtian is reprooued, comforted, inſtructed, &amp; exceedingly built vp in Chriſt. <hi>Habet latentis aliquid energeias viua vox,</hi> ſaith a father. <hi>vnde Aeſchines cum Rhodi exu<g ref="char:EOLhyphen"/>laret &amp; legeretur illa Demoſthenis oratio qua aduerſus eum habuerat mirantibus cunctis at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> laudantibus quid ſi ipſam au<g ref="char:EOLhyphen"/>diſſetis beſtiam ſua verba reſonantem? in<g ref="char:EOLhyphen"/>quit,
+<pb n="28" facs="tcp:177925:17"/>ergo vina vox in aures diſcipuli tranfuſa fortiù ſonat.</hi> A liuing voice hath ſome ſecret force in it: therefore when Aeſchines was baniſhed at Rhodes, &amp; Demoſthenes his oration was read, all men approouing and merueiling at it, what, ſaith he, if you had heard the beſt vttering theſe things? therefore a liuely voice hath greater force; ſo the liuelyvoice of preaching, hath greater force, then the word read. And thus I haue briefly finiſhed both the impedi<g ref="char:EOLhyphen"/>ments of the progreſſe in piety, &amp; the means to proceed in the ſame: I might haue enlarged this thing, and ſo haue made a iuſt volume, but giue a wiſe but an occaſion of wiſedome, and he wil be more wiſe. The Lord of his in<g ref="char:EOLhyphen"/>finite goodnes and mercy, graunt that we may carefully eſchew the hindera<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ces and impediments of ſo holy a worke, a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d diligently vſe the meanes to proceede in the ſame, in ſo doing without all peradventure we ſhall be heires of euerlaſting life.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:177925:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
